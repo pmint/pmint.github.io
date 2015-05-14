@@ -1,10 +1,10 @@
 {
   "name": "はてなブックマークに送る",
-  "package_path": "http://pmint.github.io/share2B1/v0.1.0.zip",
-  "version": "0.1.0"
+  "package_path": "https://pmint.github.io/share2B1/v0.1.0.zip",
+  "version": "0.1.0",
   "developer": {
-    "name": "Your name",
-    "url": "http://example.com"
+    "name": "pmint.name",
+    "url": "http://pmint.name/"
   },
   "locales": {}
 }
