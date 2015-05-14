@@ -7,7 +7,7 @@
 <body>
 <script>
 	// ここの URL はフルの URL でなければなりません。
-	var manifestUrl = 'https://pmint.github.io/share2B1/manifest.webapp';
+	var manifestUrl = 'http://pmint.github.io/share2B1/manifest.webapp';
 	var req = navigator.mozApps.installPackage(manifestUrl);
 	req.onerror = function() {
 		alert(this.error.name);
